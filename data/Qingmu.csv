@@ -1,4 +1,4 @@
-ID,Sex,Age,Health,Education,Level_before,Level_after,difference value,Join
+ID,Sex,Age,Health,Education,Level_before,Level_after,difference,Join
 1,0,60,1,1,0,0,0,1
 2,1,61,1,1,2,1,1,2
 3,0,32,2,2,0,0,0,0
